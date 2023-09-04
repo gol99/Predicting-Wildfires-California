@@ -7,7 +7,7 @@ The following people contributed to the project:
 - Yehudah Gol
 - Robin Scherrer
 
-The documentation and explanation of the results can be viewed [here](https://github.com/gol99/Predicting-Wildfires-California/blob/master/Documentation%20%26%20Results.pdf).
+The documentation and explanation of the results can be viewed [here](https://github.com/gol99/Predicting-Wildfires-California/blob/main/Documentation%20&%20Results.pdf).
 
 ## Instructions
 
